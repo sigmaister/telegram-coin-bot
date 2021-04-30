@@ -23,7 +23,7 @@ pyasn1==0.4.8
 python-dateutil==2.8.1
 python-editor==1.0.4
 rfc3986==1.4.0
-rsa==4.6
+rsa==4.7
 six==1.15.0
 sniffio==1.1.0
 soupsieve==2.0.1
